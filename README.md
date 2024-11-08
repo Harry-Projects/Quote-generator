@@ -18,7 +18,7 @@ A simple Quote Generator app that delivers random motivational quotes, with easy
 - Responsive design for mobile and desktop
 
 ## Demo
-Check out the live version of the Quote Generator App here: [Quote Generator App Demo](https://your-demo-link.com) *(Replace with your actual demo link)*
+Check out the live version of the Quote Generator App here: [Quote Generator App Demo](https://your-demo-link.com)
 
 ## Installation
 
